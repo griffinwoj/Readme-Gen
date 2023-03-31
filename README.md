@@ -1,6 +1,6 @@
 # Description
 
-This is a command-line application that generates a README.md file for your project based on your inputs. It uses Node.js and the Inquirer package to prompt the user for information about their project repository, and then creates a high-quality, professional README.md file with the provided information.
+Based on your inputs, this command-line program creates a README.md file for your project. It asks the user questions about their project repository using Node.js and the Inquirer module, gathers the answers, and then uses them to produce a polished, expert README.md file.
 
 Table of Contents
 Installation
@@ -12,7 +12,7 @@ Questions
 Installation
 
 ## Usage
-To use this application, you will need to have Node.js installed on your computer. Clone the repository to your local machine and run the following command in the terminal to install the required dependencies:
+You need to have Node.js installed on your computer in order to use this program. Run the following statement in the terminal to install the necessary dependencies after you have cloned the repository to your local machine:
 
 Copy code
 npm install
